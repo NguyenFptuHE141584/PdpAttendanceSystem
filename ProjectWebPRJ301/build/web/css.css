@@ -1,0 +1,179 @@
+.headercontain{
+    width: 70%;
+    height: 100px;
+    margin-left: 280px;
+    border-bottom: 10px solid #F5F5F5;
+}
+.headercontain h1 {
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.maincontain {
+    width: 70%;
+    margin-left: 280px;
+    height: auto;
+}
+.labelLogin {
+    width: 150px;
+    margin-top:50px;
+    margin-left: 500px;
+}
+.formLogin{
+    margin-left: 430px; 
+    width: 300px;
+}
+.formLogin form input {
+
+    margin-left: 20px;
+}
+.formLogin form label {
+    font-weight: bold;
+}
+.infor{
+    background: #f5f5f5;
+    margin-left: 280px;
+    width: 70%;
+    height: 40px;
+}
+.messFailed label{
+    color: red;
+    font-size: 20px;
+    padding-left: 650px;
+}
+.messFailed{
+    margin-top:10px;
+}
+.infor_name a{
+    text-decoration: none;
+    color: white;
+    background: green;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.infor_name{
+    padding-top: 10px;
+    width: 20%;
+    padding-left: 100px;
+    float: right;
+}
+.home {
+    padding-top: 10px;
+    padding-left: 50px;
+    width: 50%;
+    float: left;
+}
+.home a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+.main_contain{
+    width: 70%;
+    height: auto;
+    margin-left: 280px;
+}
+
+.main_left{
+    border: 1px solid #c4cacc;
+    width: 35%;
+    border-left: 5px solid gray;
+    height: 600px;
+    float: left;
+    margin-top: 40px;
+    float: left;
+}
+.main_left h1{
+    margin: 0px;
+    background: blue;
+    color: white;
+    width: 80px;
+}
+.main_right h1{
+    margin: 0px;
+    background: orange;
+    width: 315px;
+    color: white;
+}
+
+.main_right{
+    border: 1px solid #c4cacc;
+    border-left: 5px solid gray;
+    width:50%;
+    margin-top: 40px;
+    margin-right: 100px;
+    height: 600px;
+    float:  right;
+
+}
+.main_right_contain{
+    margin-top:50px;
+    margin-left: 50px;
+}
+.main_right_contain a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.student_detail{
+    width: 70%;
+    margin-left: 280px;
+}
+.student_detail  table tbody tr td {
+    padding-right: 100px;
+    border-bottom: 1px solid #f5f5f5;
+    padding-bottom: 20px;
+
+}
+
+.teacher_Attendance_left{
+    width: 20%;
+    border: 1px solid #f5f5f5;
+    float: left;
+}
+.teacher_Attendance_left h1{
+    margin: 0px;
+    background: #6b90da;
+}
+.teacher_Attendance_left ul li a {
+    text-decoration: none;
+    color: black;
+}
+.teacher_Attendance_right{
+    border-left: 1px solid #f5f5f5;
+    width: 78%;
+    height: auto;
+    float: right ;
+}
+.teacher_Attendance_right h1 {
+    background: #6b90da;
+    margin: 0px;
+}
+.table_attendance table,thead,th,td,tr {
+    border: 1px solid #f5f5f5;
+    width: 1000px;
+    height: auto;
+}
+.table_attendance table,tbody,th,td,tr {
+    border: 1px solid #f5f5f5;
+    width: 1000px;
+    height: auto;
+}
+.table_attendance{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.teacher_active{
+    width: 70%;
+    margin-left: 280px;
+}
+.teacher_Schedule{
+    width: 70%;
+    margin-left: 280px;
+}
+.more_note{
+     width: 70%;
+    margin-left: 280px;
+}
